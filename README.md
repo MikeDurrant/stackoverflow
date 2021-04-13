@@ -1,3 +1,7 @@
+NB - this repository is in my profile as part of my initial learning on how to use github.  From the Udacity Data Science nanodegree.
+
+
+
 
 ### Table of Contents
 
